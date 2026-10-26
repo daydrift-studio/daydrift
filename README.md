@@ -6,9 +6,9 @@
 
 ## 欢迎访问官方站点与生态
 
-- 🌐 **官方主站**：[daydrift.example](https://daydrift.example)（游戏介绍、媒体画廊与最新动态）
-- 📖 **开发者与玩家文档**：[docs.daydrift.example](https://docs.daydrift.example)（游玩手册、开服部署、模组规范）
-- 🛒 **Mod 扩展中心**：[mods.daydrift.example](https://mods.daydrift.example)（官方与社区模组浏览、安全校验与下载）
+- 🌐 **官方主站**：[daydrift.blym.top](https://daydrift.blym.top)（游戏介绍、媒体画廊与最新动态）
+- 📖 **开发者与玩家文档**：[daydrift-docs.blym.top](https://daydrift-docs.blym.top)（游玩手册、开服部署、模组规范）
+- 🛒 **Mod 扩展中心**：[daydrift-mods.blym.top](https://daydrift-mods.blym.top)（官方与社区模组浏览、安全校验与下载）
 - 🛠️ **模组开发工具包**：[daydrift-mod-sdk](https://github.com/daydrift-studio/daydrift-mod-sdk)（Lua 类型定义、语法提示与制作模板）
 
 ---
